@@ -1,2 +1,5 @@
 # numpy_learn
-dasar-dasar library numpy
+-dasar-dasar library numerical python bersama bang arfy slowy
+
+-link youtube :
+https://youtu.be/bNhve_X6B6o?si=w9WIo77iWY9Zd71G
