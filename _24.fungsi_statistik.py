@@ -64,7 +64,7 @@ range_data = numpy.ptp(data)
 print(f"data: {data}")
 print(f"hasil ptp: {range_data}") # 9 - 1
 
-print("\n ====================")
+print("\n ====================") 
 # menghitung rata-rata berbobot
 
 data_value = numpy.array([1,2,3,4])
